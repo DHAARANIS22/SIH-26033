@@ -65,8 +65,10 @@ METHODOLOGY:
 ANALYSIS AND FEASIBILITY:
         *Analyse it think free tools 
         *starting small with an MVP
+        
 CHALLENGES:
         *Farmers with low digital skills ,poor village internet ,buyers trusting quality and high delivery cost
+        
 STRATEGIES:
         *Regional language and voice support ,a light app for low intetrnet,rating for trust ,grouping the nearby orders
 
@@ -75,6 +77,7 @@ IMPACTS:
     *Farmers sell directly and keep more of the price 
     *consumers and buyers produces at low cost
     *local transports works more for delivary
+    
 BENEFITS:
     *Less dependance on middle man ,rural for farmers get a digital market
     *higher farmer inocome and lower sonsumer price
