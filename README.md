@@ -50,7 +50,9 @@ INNOVATION:
 TECHNOLOGIES TO BE USED
         *AIML:python demand for predicting how much of a crop buyers will want in the coming days or weeks bet
         *using google maps for route optimization to find the distance and the fasyest route between the farmers and the buyers so delivery cost and time go down
-        *using UPI let the buyers pay through online directly into the farmer's account.
+        *using UPI let the buyers pay through online directly into the farmer's account
+        
+        
 METHODOLOGY:
         *Registers :the farmer sign up and enter the crop ,quantity,price and loaction
         *Search and orders:the buyers search crop and location and place an order
